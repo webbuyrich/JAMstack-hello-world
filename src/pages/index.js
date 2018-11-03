@@ -6,6 +6,7 @@ import Image from '../components/image'
 
 const IndexPage = () => (
   <Layout>
+  	<Link to="/contact/">Contact</Link>
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>My name is Richard Peterson.</p>
